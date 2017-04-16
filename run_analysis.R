@@ -58,6 +58,11 @@ fulldatasetMeans <- fulldataset %>%
   group_by(Subject, Activity) %>%
   summarise_each(funs(mean))
 
+#Fix names of features
+featuresBetterNames <- gsub("[-()]","", meanSdMeasurements)
+names(fulldatasetMeans)[names(fulldatasetMeans)%in%meanSdMeasurements] <- featuresBetterNames
+
+
 # write out the final table to "tidydataset.txt"
 write.table(fulldatasetMeans, "tidydataset.txt", row.names = FALSE, quote = FALSE)
 

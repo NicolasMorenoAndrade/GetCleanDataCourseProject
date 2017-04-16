@@ -10,85 +10,73 @@ This code book summarizes and explains the  data columns/variables  in this repo
 
 ## Measurment variables
 
-* `tBodyAccMeanX`
-* `tBodyAccMeanY`
-* `tBodyAccMeanZ`
-* `tBodyAccStdX`
-* `tBodyAccStdY`
-* `tBodyAccStdZ`
-* `tGravityAccMeanX`
-* `tGravityAccMeanY`
-* `tGravityAccMeanZ`
-* `tGravityAccStdX`
-* `tGravityAccStdY`
-* `tGravityAccStdZ`
-* `tBodyAccJerkMeanX`
-* `tBodyAccJerkMeanY`
-* `tBodyAccJerkMeanZ`
-* `tBodyAccJerkStdX`
-* `tBodyAccJerkStdY`
-* `tBodyAccJerkStdZ`
-* `tBodyGyroMeanX`
-* `tBodyGyroMeanY`
-* `tBodyGyroMeanZ`
-* `tBodyGyroStdX`
-* `tBodyGyroStdY`
-* `tBodyGyroStdZ`
-* `tBodyGyroJerkMeanX`
-* `tBodyGyroJerkMeanY`
-* `tBodyGyroJerkMeanZ`
-* `tBodyGyroJerkStdX`
-* `tBodyGyroJerkStdY`
-* `tBodyGyroJerkStdZ`
-* `tBodyAccMagMean`
-* `tBodyAccMagStd`
-* `tGravityAccMagMean`
-* `tGravityAccMagStd`
-* `tBodyAccJerkMagMean`
-* `tBodyAccJerkMagStd`
-* `tBodyGyroMagMean`
-* `tBodyGyroMagStd`
-* `tBodyGyroJerkMagMean`
-* `tBodyGyroJerkMagStd`
-* `fBodyAccMeanX`
-* `fBodyAccMeanY`
-* `fBodyAccMeanZ`
-* `fBodyAccStdX`
-* `fBodyAccStdY`
-* `fBodyAccStdZ`
-* `fBodyAccMeanFreqX`
-* `fBodyAccMeanFreqY`
-* `fBodyAccMeanFreqZ`
-* `fBodyAccJerkMeanX`
-* `fBodyAccJerkMeanY`
-* `fBodyAccJerkMeanZ`
-* `fBodyAccJerkStdX`
-* `fBodyAccJerkStdY`
-* `fBodyAccJerkStdZ`
-* `fBodyAccJerkMeanFreqX`
-* `fBodyAccJerkMeanFreqY`
-* `fBodyAccJerkMeanFreqZ`
-* `fBodyGyroMeanX`
-* `fBodyGyroMeanY`
-* `fBodyGyroMeanZ`
-* `fBodyGyroStdX`
-* `fBodyGyroStdY`
-* `fBodyGyroStdZ`
-* `fBodyGyroMeanFreqX`
-* `fBodyGyroMeanFreqY`
-* `fBodyGyroMeanFreqZ`
-* `fBodyAccMagMean`
-* `fBodyAccMagStd`
-* `fBodyAccMagMeanFreq`
-* `fBodyBodyAccJerkMagMean`
-* `fBodyBodyAccJerkMagStd`
-* `fBodyBodyAccJerkMagMeanFreq`
-* `fBodyBodyGyroMagMean`
-* `fBodyBodyGyroMagStd`
-* `fBodyBodyGyroMagMeanFreq`
-* `fBodyBodyGyroJerkMagMean`
-* `fBodyBodyGyroJerkMagStd`
-* `fBodyBodyGyroJerkMagMeanFreq`
+tBodyAccmeanX
+tBodyAccmeanY
+tBodyAccmeanZ
+tBodyAccstdX
+tBodyAccstdY
+tBodyAccstdZ
+tGravityAccmeanX
+tGravityAccmeanY
+tGravityAccmeanZ
+tGravityAccstdX
+tGravityAccstdY
+tGravityAccstdZ
+tBodyAccJerkmeanX
+tBodyAccJerkmeanY
+tBodyAccJerkmeanZ
+tBodyAccJerkstdX
+tBodyAccJerkstdY
+tBodyAccJerkstdZ
+tBodyGyromeanX
+tBodyGyromeanY
+tBodyGyromeanZ
+tBodyGyrostdX
+tBodyGyrostdY
+tBodyGyrostdZ
+tBodyGyroJerkmeanX
+tBodyGyroJerkmeanY
+tBodyGyroJerkmeanZ
+tBodyGyroJerkstdX
+tBodyGyroJerkstdY
+tBodyGyroJerkstdZ
+tBodyAccMagmean
+tBodyAccMagstd
+tGravityAccMagmean
+tGravityAccMagstd
+tBodyAccJerkMagmean
+tBodyAccJerkMagstd
+tBodyGyroMagmean
+tBodyGyroMagstd
+tBodyGyroJerkMagmean
+tBodyGyroJerkMagstd
+fBodyAccmeanX
+fBodyAccmeanY
+fBodyAccmeanZ
+fBodyAccstdX
+fBodyAccstdY
+fBodyAccstdZ
+fBodyAccJerkmeanX
+fBodyAccJerkmeanY
+fBodyAccJerkmeanZ
+fBodyAccJerkstdX
+fBodyAccJerkstdY
+fBodyAccJerkstdZ
+fBodyGyromeanX
+fBodyGyromeanY
+fBodyGyromeanZ
+fBodyGyrostdX
+fBodyGyrostdY
+fBodyGyrostdZ
+fBodyAccMagmean
+fBodyAccMagstd
+fBodyBodyAccJerkMagmean
+fBodyBodyAccJerkMagstd
+fBodyBodyGyroMagmean
+fBodyBodyGyroMagstd
+fBodyBodyGyroJerkMagmean
+fBodyBodyGyroJerkMagstd
+
 
 ## Activity Labels
 
